@@ -38,3 +38,4 @@ ehthumbs.db
 Thumbs.db
 *.sublime-project
 *.sublime-workspace
+*.ipynb_checkpoints
